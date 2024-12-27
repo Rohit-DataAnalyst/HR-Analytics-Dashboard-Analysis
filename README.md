@@ -12,7 +12,9 @@ This project provides a comprehensive analysis of employee-related metrics acros
 </p>
 </div>
 
+![Screenshot 2024-12-27 105927](https://github.com/user-attachments/assets/aee55493-14a7-4dbc-a1e9-318ae598d57a)
 
+---
 
 ## Problem Statement
 Efficient management of human resources is critical to an organization's success. This project focuses on:
