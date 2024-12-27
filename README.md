@@ -5,6 +5,15 @@ This project provides a comprehensive analysis of employee-related metrics acros
 
 ---
 
+<div align="center">
+  <p>
+
+## [Checkout the Power BI Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiMDFkZTQ2YTMtNzc1OS00NWVjLTkzZWYtMDUwMzZiMDhmYmYyIiwidCI6IjU1MTFiODM3LWE1Y2EtNDY3Yy1iZDQzLWZkNDFjZWJiMGM1ZCJ9)
+</p>
+</div>
+
+
+
 ## Problem Statement
 Efficient management of human resources is critical to an organization's success. This project focuses on:
 
